@@ -27,7 +27,7 @@ Thumbs.db
 *.log
 
 # Data / embeddings (optional - depends on your project)
-chroma_langchain_db/
+chrome_langchain_db/
 *.parquet
 *.pkl
 
